@@ -18,6 +18,5 @@ int main()
         for ( int j = 1; j <= m; j++ ) cin >> adjMat[i][j];
     }
 
-
     return 0;
 }
